@@ -1,0 +1,60 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="impact-title impact-desc">
+  <title id="impact-title">Proof, not adjectives</title>
+  <desc id="impact-desc">Bayu's product impact: more than 50,000 transactions, more than 15 events, eight payment integrations, and a production workflow made about 75 percent faster.</desc>
+  <defs>
+    <linearGradient id="impact-bg" x1="20" y1="0" x2="1380" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#031024"/><stop offset=".58" stop-color="#07182F"/><stop offset="1" stop-color="#10294C"/>
+    </linearGradient>
+    <linearGradient id="impact-signal" x1="58" y1="0" x2="1342" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ED1F73"/><stop offset=".34" stop-color="#FFBD17"/><stop offset=".68" stop-color="#05BD68"/><stop offset="1" stop-color="#6134F4"/>
+    </linearGradient>
+    <pattern id="impact-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FBFCFF" stroke-opacity=".04"/>
+    </pattern>
+    <filter id="impact-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000814" flood-opacity=".38"/>
+    </filter>
+    <clipPath id="impact-frame"><rect width="1400" height="360" rx="34"/></clipPath>
+  </defs>
+  <g clip-path="url(#impact-frame)">
+    <rect width="1400" height="360" fill="url(#impact-bg)"/>
+    <rect width="1400" height="360" fill="url(#impact-grid)"/>
+    <circle cx="1280" cy="14" r="260" fill="#218FDA" fill-opacity=".12"/>
+    <circle cx="90" cy="380" r="240" fill="#ED1F73" fill-opacity=".12"/>
+    <path d="M45 324C300 282 450 347 700 317C960 287 1110 259 1372 294" stroke="url(#impact-signal)" stroke-width="4"/>
+    <g font-family="DejaVu Sans, Arial, sans-serif">
+      <text x="58" y="55" fill="#FFBD17" font-size="16" font-weight="700" letter-spacing="3">IMPACT / SELECTED SIGNALS</text>
+      <text x="58" y="89" fill="#FBFCFF" font-size="32" font-weight="800" letter-spacing="-1">PROOF, NOT ADJECTIVES.</text>
+      <text x="1342" y="76" fill="#B9C6DA" font-size="18" text-anchor="end">A few numbers from products and operations I helped build.</text>
+      <g transform="translate(58 117)" filter="url(#impact-shadow)">
+        <rect width="298" height="168" rx="25" fill="#FBFCFF" fill-opacity=".065" stroke="#FBFCFF" stroke-opacity=".12"/>
+        <rect width="298" height="7" rx="4" fill="#ED1F73"/>
+        <text x="24" y="72" fill="#FBFCFF" font-size="50" font-weight="800">50K+</text>
+        <text x="24" y="105" fill="#D8E1F1" font-size="20" font-weight="700">transactions handled</text>
+        <text x="24" y="139" fill="#61708C" font-size="15" font-weight="700" letter-spacing="2">SNAPTIX</text>
+      </g>
+      <g transform="translate(376 117)" filter="url(#impact-shadow)">
+        <rect width="298" height="168" rx="25" fill="#FBFCFF" fill-opacity=".065" stroke="#FBFCFF" stroke-opacity=".12"/>
+        <rect width="298" height="7" rx="4" fill="#FFBD17"/>
+        <text x="24" y="72" fill="#FBFCFF" font-size="50" font-weight="800">15+</text>
+        <text x="24" y="105" fill="#D8E1F1" font-size="20" font-weight="700">events operated</text>
+        <text x="24" y="139" fill="#61708C" font-size="15" font-weight="700" letter-spacing="2">ONLINE + ON-SITE</text>
+      </g>
+      <g transform="translate(694 117)" filter="url(#impact-shadow)">
+        <rect width="298" height="168" rx="25" fill="#FBFCFF" fill-opacity=".065" stroke="#FBFCFF" stroke-opacity=".12"/>
+        <rect width="298" height="7" rx="4" fill="#05BD68"/>
+        <text x="24" y="72" fill="#FBFCFF" font-size="50" font-weight="800">8</text>
+        <text x="24" y="105" fill="#D8E1F1" font-size="20" font-weight="700">payment integrations</text>
+        <text x="24" y="139" fill="#61708C" font-size="15" font-weight="700" letter-spacing="2">TRANSACTION SYSTEMS</text>
+      </g>
+      <g transform="translate(1012 117)" filter="url(#impact-shadow)">
+        <rect width="330" height="168" rx="25" fill="#FBFCFF" fill-opacity=".065" stroke="#FBFCFF" stroke-opacity=".12"/>
+        <rect width="330" height="7" rx="4" fill="#6134F4"/>
+        <text x="24" y="72" fill="#FBFCFF" font-size="50" font-weight="800">~75%</text>
+        <text x="24" y="105" fill="#D8E1F1" font-size="20" font-weight="700">faster disruption handling</text>
+        <text x="24" y="139" fill="#61708C" font-size="15" font-weight="700" letter-spacing="2">PANASONIC OPERATIONS</text>
+      </g>
+    </g>
+  </g>
+  <rect x="1.5" y="1.5" width="1397" height="357" rx="32.5" stroke="url(#impact-signal)" stroke-opacity=".44" stroke-width="3"/>
+</svg>

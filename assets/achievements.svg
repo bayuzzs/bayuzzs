@@ -1,0 +1,70 @@
+<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="achievement-title achievement-desc">
+  <title id="achievement-title">Selected milestones</title>
+  <desc id="achievement-desc">First place at National Coder Competition, second overall at KMIPN VII, BPJS Healthkathon finalist selected from more than 1,000 teams, and Temunitas speaker.</desc>
+  <defs>
+    <linearGradient id="paper" x1="20" y1="0" x2="1380" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBFCFF"/><stop offset=".55" stop-color="#E8EDF8"/><stop offset="1" stop-color="#F2F5FB"/>
+    </linearGradient>
+    <pattern id="paper-grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#07182F" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="card-shadow" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="19" stdDeviation="17" flood-color="#07182F" flood-opacity=".2"/>
+    </filter>
+    <clipPath id="achievement-frame"><rect width="1400" height="430" rx="34"/></clipPath>
+  </defs>
+  <g clip-path="url(#achievement-frame)">
+    <rect width="1400" height="430" fill="url(#paper)"/><rect width="1400" height="430" fill="url(#paper-grid)"/>
+    <circle cx="174" cy="215" r="130" stroke="#6134F4" stroke-opacity=".15"/><circle cx="174" cy="215" r="92" stroke="#ED1F73" stroke-opacity=".13"/>
+    <path d="M38 377C240 345 360 404 555 369C758 333 960 345 1366 301" stroke="#07182F" stroke-opacity=".1" stroke-width="2"/>
+    <g font-family="DejaVu Sans, Arial, sans-serif">
+      <text x="54" y="60" fill="#6134F4" font-size="16" font-weight="700" letter-spacing="3">MILESTONES / 2024—2025</text>
+      <text x="48" y="117" fill="#07182F" font-size="44" font-weight="800" letter-spacing="-2">BUILT.</text>
+      <text x="48" y="165" fill="#07182F" font-size="44" font-weight="800" letter-spacing="-2">SHARED.</text>
+      <text x="48" y="213" fill="#07182F" font-size="44" font-weight="800" letter-spacing="-2">RECOGNIZED.</text>
+      <text x="54" y="263" fill="#61708C" font-size="18">Products matter more</text>
+      <text x="54" y="291" fill="#61708C" font-size="18">when people feel the impact.</text>
+
+      <g transform="translate(350 70) rotate(-2 120 145)" filter="url(#card-shadow)">
+        <rect width="240" height="292" rx="28" fill="#6134F4"/>
+        <circle cx="197" cy="43" r="21" fill="#FBFCFF" fill-opacity=".14"/><text x="197" y="50" fill="#FBFCFF" font-size="15" font-weight="800" text-anchor="middle">24</text>
+        <text x="24" y="57" fill="#D8CCFF" font-size="14" font-weight="700" letter-spacing="2">NCC</text>
+        <text x="24" y="137" fill="#FFBD17" font-size="56" font-weight="800">1ST</text>
+        <text x="24" y="181" fill="#FBFCFF" font-size="22" font-weight="800">National Coder</text>
+        <text x="24" y="210" fill="#FBFCFF" font-size="22" font-weight="800">Competition</text>
+        <text x="24" y="257" fill="#D8CCFF" font-size="16">Built Ajarin LMS</text>
+      </g>
+
+      <g transform="translate(600 58) rotate(1.5 120 145)" filter="url(#card-shadow)">
+        <rect width="240" height="292" rx="28" fill="#FFBD17"/>
+        <circle cx="197" cy="43" r="21" fill="#07182F" fill-opacity=".1"/><text x="197" y="50" fill="#07182F" font-size="15" font-weight="800" text-anchor="middle">25</text>
+        <text x="24" y="57" fill="#7A5910" font-size="14" font-weight="700" letter-spacing="2">KMIPN VII</text>
+        <text x="24" y="137" fill="#07182F" font-size="56" font-weight="800">2ND</text>
+        <text x="24" y="181" fill="#07182F" font-size="22" font-weight="800">Overall place</text>
+        <text x="24" y="210" fill="#07182F" font-size="22" font-weight="800">at national stage</text>
+        <text x="24" y="257" fill="#7A5910" font-size="16">Built Bangkit</text>
+      </g>
+
+      <g transform="translate(850 72) rotate(-1.2 120 145)" filter="url(#card-shadow)">
+        <rect width="240" height="292" rx="28" fill="#ED1F73"/>
+        <circle cx="197" cy="43" r="21" fill="#FBFCFF" fill-opacity=".14"/><text x="197" y="50" fill="#FBFCFF" font-size="15" font-weight="800" text-anchor="middle">24</text>
+        <text x="24" y="57" fill="#FFD2E4" font-size="14" font-weight="700" letter-spacing="2">HEALTHKATHON</text>
+        <text x="24" y="132" fill="#FBFCFF" font-size="43" font-weight="800">FINALIST</text>
+        <text x="24" y="181" fill="#FBFCFF" font-size="22" font-weight="800">Selected from</text>
+        <text x="24" y="210" fill="#FBFCFF" font-size="22" font-weight="800">1,000+ teams</text>
+        <text x="24" y="257" fill="#FFD2E4" font-size="16">Built Warrior</text>
+      </g>
+
+      <g transform="translate(1110 58) rotate(2 120 145)" filter="url(#card-shadow)">
+        <rect width="240" height="292" rx="28" fill="#05BD68"/>
+        <circle cx="197" cy="43" r="21" fill="#07182F" fill-opacity=".1"/><text x="197" y="50" fill="#07182F" font-size="15" font-weight="800" text-anchor="middle">25</text>
+        <text x="24" y="57" fill="#07492C" font-size="14" font-weight="700" letter-spacing="2">TEMUNITAS</text>
+        <text x="24" y="132" fill="#07182F" font-size="39" font-weight="800">SPEAKER</text>
+        <text x="24" y="181" fill="#07182F" font-size="22" font-weight="800">Leadership &amp;</text>
+        <text x="24" y="210" fill="#07182F" font-size="22" font-weight="800">open source</text>
+        <text x="24" y="257" fill="#07492C" font-size="16">IDCloudhost</text>
+      </g>
+    </g>
+  </g>
+  <rect x="1.5" y="1.5" width="1397" height="427" rx="32.5" stroke="#07182F" stroke-opacity=".13" stroke-width="3"/>
+</svg>
