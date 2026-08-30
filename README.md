@@ -1,59 +1,67 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/ba-yu-maulana/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@bayuzzs">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=bayuzzs&style=flat-square&color=blue" alt=""/>
+<p align="center">
+  <img src="./assets/hero.svg" alt="Bayu Maulana — Product Engineer. Ideas to products to impact." width="100%" />
+</p>
 
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ba-yu-maulana/"><strong>LinkedIn ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@bayuzzs"><strong>YouTube ↗</strong></a>
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+## Hello — I'm Bayu.
+
+I'm a product engineer based in Batam, Indonesia. I build where software, operations, and physical products meet—taking ideas from a rough brief through architecture, user experience, delivery, and the unglamorous last mile that makes a product actually work.
+
+I care about simple systems, thoughtful interfaces, and technology that earns its place.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://snaptix.id">Snaptix ↗</a></h3>
+      <p>Digital ticketing infrastructure for events—from commerce and organizer workflows to resilient venue validation.</p>
+      <p><code>EVENTS</code> <code>COMMERCE</code> <code>OPERATIONS</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://makeable.build">Makeable ↗</a></h3>
+      <p>A platform for turning connected-product ideas into things people can build, flash, and use.</p>
+      <p><code>HARDWARE</code> <code>ESP32</code> <code>WEB SERIAL</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Infina</h3>
+      <p>A technology studio shipping focused digital systems for businesses, operations teams, and public-facing experiences.</p>
+      <p><code>PRODUCT</code> <code>WEB</code> <code>CLIENT SYSTEMS</code></p>
+    </td>
+  </tr>
+</table>
+
+## How I build
+
+- **Start with the real constraint.** Users, operations, and edge cases shape the product before the stack does.
+- **Own the whole journey.** Interface, backend, deployment, and field reliability belong to the same experience.
+- **Keep learning in public.** I explore product engineering, AI, connected hardware, and better ways to ship.
+
+## Toolbox
+
+| Product interfaces | Services & systems | Data & delivery |
+| --- | --- | --- |
+| `TypeScript` · `React` · `Next.js` · `Flutter` · `Redux` · `HTML` · `CSS` | `Node.js` · `NestJS` · `Express` · `Go` · `Python` | `MySQL` · `Redis` · `Git` |
+
+## Open-source signal
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=bayuzzs&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;icon_color=A78BFA&amp;text_color=8B949E&amp;ring_color=22D3EE" alt="Bayu's GitHub statistics" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bayuzzs&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=8B949E" alt="Languages used across Bayu's public GitHub repositories" width="49%" />
+</p>
+
+<p align="center"><sub>Public repositories only. Language totals describe code composition, not skill level.</sub></p>
 
 ---
 
-### :woman_technologist: About Me :
+<h2 align="center">Let's build something useful.</h2>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: I like to exploring new Technology.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox: How to reach me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ba-yu-maulana/)
-<br><br>
-### :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60" hspace="5"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="60" height="60" hspace="5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" hspace="5"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="60" height="60" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60" hspace="5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="60" height="60" hspace="5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60" hspace="5"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60" hspace="5"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express" alt="Express" width="60" height="60" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="60" height="60" hspace="5" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60" height="60" hspace="5"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" alt="Redis " width="60" height="60" hspace="5" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60" hspace="5"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60" hspace="5"/>
-</div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayuzzs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  Have a hard product problem? Let's turn it into something people can use.<br />
+  <a href="https://www.linkedin.com/in/ba-yu-maulana/"><strong>Start a conversation ↗</strong></a>
+</p>
